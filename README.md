@@ -2,10 +2,9 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
-## Tematika
+## Analiza ras prebivalstva ZDA
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Analiziral bom sestavo prebivalstva po rasi za vsako zvezno državo posebej ter ZDA kot celoto.
 
 ## Program
 
