@@ -2,9 +2,9 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
-## Analiza ras prebivalstva ZDA
+## Rasna sestava prebivalstva ZDA
 
-Analiziral bom sestavo prebivalstva po rasi za vsako zvezno državo posebej ter ZDA kot celoto.
+Analiziral bom rasno sestavo prebivalstva za vsako zvezno državo posebej ter ZDA kot celoto.
 
 ## Program
 
