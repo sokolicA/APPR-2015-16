@@ -6,6 +6,8 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 Analiziral bom rasno sestavo prebivalstva za vsako zvezno državo posebej ter ZDA kot celoto.
 
+https://en.wikipedia.org/wiki/Demographics_of_the_United_States#Race_and_ethnicity
+
 ## Program
 
 Glavni program in poročilo se nahajata v datoteki `projekt.Rmd`. Ko ga prevedemo,
