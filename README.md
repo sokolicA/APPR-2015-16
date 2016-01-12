@@ -6,7 +6,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 Analiziral bom rasno sestavo prebivalstva za vsako zvezno državo posebej ter ZDA kot celoto.
 
-Zaradi velikega števila priseljencev imajo ZDA raznoliko sestavo prebivalstva. Osredotočili se bomo na rasno sestavo prebivalstva. Prebivalstvo bomo delili na belo, latinoameriško, črno, ameriško indijansko in mešano.
+Zaradi velikega števila priseljencev imajo ZDA raznoliko sestavo prebivalstva. Osredotočili se bomo na rasno sestavo prebivalstva. Prebivalstvo bomo delili na belo, latinoameriško, črno, ameriško-indijansko in mešano.
 
 https://en.wikipedia.org/wiki/Demographics_of_the_United_States#Race_and_ethnicity
 
